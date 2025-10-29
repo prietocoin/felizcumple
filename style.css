@@ -6,8 +6,8 @@ html, body {
     background-color: #f4f4f4; /* Color de fondo si la imagen no carga */
     
     /* --- CONFIGURACIÓN DEL FONDO DE ROSAS --- */
-    /* Reemplaza 'URL_DE_TU_IMAGEN.jpg' con la URL de la imagen que elijas */
-    background-image: url('URL_DE_TU_IMAGEN.jpg');
+    /* Usamos el nombre de tu imagen subida */
+    background-image: url('fondo-rosas.jpg');
     
     background-size: cover; /* Cubre toda la pantalla */
     background-position: center; /* Centra la imagen */
